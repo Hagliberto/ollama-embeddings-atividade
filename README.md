@@ -174,7 +174,7 @@ Grave um vídeo de até 3 minutos mostrando:
 2. Pull do modelo (`ollama pull llama3.2`).
 3. Execução do script/notebook e visualização dos embeddings.
 
-> **Link do vídeo:** [https://youtu.be/seu\_video\_aqui](https://youtu.be/seu_video_aqui)
+> **Link do vídeo:** [Vídeo de apresentação](https://www.loom.com/share/ffaf4d2d3c51470bb8003060253150d1?sid=f27d8b0a-b150-4413-9f8e-230ef7585087)
 
 ---
 
